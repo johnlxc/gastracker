@@ -1,0 +1,16 @@
+@font-face {
+	font-family: jura;
+	src: url('/assets/fonts/Jura/Jura-Regular.ttf');
+}
+@font-face {
+	font-family: homestead;
+	src: url('/assets/fonts/Homestead/Homestead-Display.ttf');
+}
+@font-face {
+	font-family: liberator;
+	src: url('/assets/fonts/Liberator/Liberator.ttf');
+}
+body
+{
+font-family: jura;
+}
